@@ -20,8 +20,9 @@ ReactDOM.render(
         }
       >
         <App />
-        sdfasdfadsf
       </SafeProvider>
+      sdfasdfadsfadsfadsf
+
     </ThemeProvider>
   </React.StrictMode>,
   document.getElementById('root'),
