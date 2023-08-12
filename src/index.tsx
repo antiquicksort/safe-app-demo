@@ -11,7 +11,7 @@ ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyle />
-      {/* <SafeProvider
+      <SafeProvider
         loader={
           <>
             <Title size="md">Waiting for Safe...</Title>
@@ -20,8 +20,8 @@ ReactDOM.render(
         }
       >
         <App />
-      </SafeProvider> */}
-      sdfasdfadsfadsfadsf
+      </SafeProvider>
+              sdfasdfadsfadsfadsf
 
     </ThemeProvider>
   </React.StrictMode>,
