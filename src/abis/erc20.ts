@@ -1,4 +1,3 @@
-// import { AbiItem } from 'web3-utils';
 
 const ERC_20_ABI: { [key: string]: any } = {
     transfer: {
